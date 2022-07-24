@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "About Me"
+    url: /
+  - title: "Experience"
+    url: /experience/
+  - title: "Education"
+    url: /education/
+  - title: "Projects"
+    url: /projects/
