@@ -1,6 +1,6 @@
 # Bekzat Alish's Personal Website
 
-This repository houses code for Bekzat Alish's personal portfolio website, containing his work in data science, machine learning, and deep learning. The website is built using [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+This repository houses Bekzat Alish's personal portfolio website, containing his work in data science, machine learning, and deep learning. The website is built using [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 
 ## Installation
 
