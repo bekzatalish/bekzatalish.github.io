@@ -20,7 +20,7 @@ Spearheaded adoption of high-performance computing technologies in Credit Card D
 
 Recognized as Subject Matter Expert for auto finance data and technical implementation of marketing campaigns. Engineered robust data pipelines using PySpark / SQL and interactive business dashboard using D3.js. Deliverables resulted in bringing marketing costs down by 20% and customer conversion up by 10%.
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/cal-logo.png){: style="float: left; margin-right: 1em; width: 3em"} **Data Scientist Intern**, June 2017 - May 2018 <br>
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/carlson-lab-logo.png){: style="float: left; margin-right: 1em; width: 3em"} **Data Scientist Intern**, June 2017 - May 2018 <br>
 *Carlson Analytics Lab* - Minneapolis, MN
 
 Led teams of 4-5 to deliver analytics solutions for PwC, Land O'Lakes, and Mall of America. Wrangled disorganized datasets, built time series forecasting and imbalanced classification models.
