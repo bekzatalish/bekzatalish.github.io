@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Bekzat Alish"
 description              : "This is Bekzat Alish's personal portfolio website, containing his work in data science, machine learning, and deep learning."
-url                      : "https://bekzatalish.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://bekzatalish.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "bekzatalish.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
