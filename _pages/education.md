@@ -11,7 +11,7 @@ redirect_from:
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/georgia-tech-logo.png){: style="float: left; margin-right: 1em; width: 4em"}
 **Georgia Institute of Technology** <br>
-*MS, Computer Science and Machine Learning* <br>
+*MS, Computer Science & Machine Learning* <br>
 May 2022
 
 Coursework: Machine Learning, Deep Learning, Reinforcement Learning, Artificial Intelligence, Algorithms, High-Dimensional Data Analytics, Simulation.
@@ -24,7 +24,7 @@ May 2018
 Coursework: Predictive Analytics, Exploratory Data Analytics, Big Data Analytics, Design of Experiments.
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/st-olaf-logo.png){: style="float: left; margin-right: 1em; width: 4em"} **St. Olaf College** <br>
-*BA, Economics and Statistics* <br>
+*BA, Economics & Statistics* <br>
 May 2016
 
 Coursework: Statistical Modeling, Programming for Scientists, Econometrics.
