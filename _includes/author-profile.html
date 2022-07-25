@@ -31,6 +31,10 @@
         </li>
       {% endif %}
 
+      {% if author.employer %}
+        <li><i class="fa fa-fw fa-briefcase " aria-hidden="true"></i> {{ author.employer }}</li>
+      {% endif %}
+      
       {% if author.links %}
         {% for link in author.links %}
           {% if link.label and link.url %}

@@ -108,6 +108,7 @@ author:
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Senior Data Scientist at Capital One."
   location         : "Washington, D.C."
+  employer         : "Capital One"
   email            :
   links:
     - label: "Email"
