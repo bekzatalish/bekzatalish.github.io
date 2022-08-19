@@ -10,6 +10,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Data Scientist at Capital One. At Capital One, my focus is on developing and applying machine learning in customer risk modeling. I have MS in CS from Georgia Institute of Technology and MS in Business Analytics from University of Minnesota.
+I am a Machine Learning Engineer at Capital One. At Capital One, my focus is on developing and applying machine learning in customer risk modeling. I have MS in CS from Georgia Institute of Technology and MS in Business Analytics from University of Minnesota.
 
 Please feel free to contact me with any questions or if you want to get in touch.

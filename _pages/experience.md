@@ -10,7 +10,7 @@ redirect_from:
   - /experience.html
 ---
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/capital-one-logo.png){: style="float: left; margin-right: 1em; width: 4em"} **Senior Data Scientist** <br>
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/capital-one-logo.png){: style="float: left; margin-right: 1em; width: 4em"} **Machine Learning Engineer** <br>
 *Capital One*, Washington, D.C. <br>
 July 2019 - Current
 

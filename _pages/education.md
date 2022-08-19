@@ -12,7 +12,7 @@ redirect_from:
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/georgia-tech-logo.png){: style="float: left; margin-right: 1em; width: 4em"}
 **Georgia Institute of Technology** <br>
 *MS, Computer Science & Machine Learning* <br>
-May 2022
+December 2022
 
 Coursework: Machine Learning, Deep Learning, Reinforcement Learning, Artificial Intelligence, Algorithms, High-Dimensional Data Analytics, Simulation.
 
