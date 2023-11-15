@@ -20,7 +20,7 @@ title                    : "Bekzat Alish"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Bekzat Alish"
-description              : "This is Bekzat Alish's personal portfolio website, containing his work in data science, machine learning, and deep learning."
+description              : "This is Bekzat Alish's personal portfolio website, containing his work in machine learning, deep learning, and NLP."
 url                      : "https://bekzatalish.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "bekzatalish.github.io"
@@ -106,9 +106,9 @@ analytics:
 author:
   name             : "Bekzat Alish"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Machine Learning Engineer at Capital One."
-  location         : "Washington, D.C."
-  employer         : "Capital One"
+  bio              : "Machine Learning Engineer at Meta."
+  location         : "Seattle, WA"
+  employer         : "Meta"
   email            :
   links:
     - label: "Email"
