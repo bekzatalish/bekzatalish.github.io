@@ -12,4 +12,6 @@ The website code was set up using instructions on [Minimal Mistakes](https://mmi
 
 To set up your environment to edit and test this website, run `bundle install`.
 
+To build the website locally, run `bundle exec jekyll build`.
+
 To test the website locally, run `bundle exec jekyll serve` and open your browser at http://localhost:4000/.
